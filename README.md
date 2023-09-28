@@ -1,8 +1,6 @@
 # Time Tracker
 
-[![alt text]([http://url/to/img.png](https://github.com/mgalavai/timetrackr/blob/main/client.png?raw=true))
-](https://github.com/mgalavai/timetrackr/blob/main/client.png?raw=true)
-
+![client img](https://github.com/mgalavai/timetrackr/blob/main/client.png?raw=true)
 
 Time Tracker is a simple web application that allows users to log and view their worked hours on a daily basis. The app interfaces with a Google Spreadsheet to store and retrieve data, providing an easy-to-use and accessible platform for time tracking.
 
