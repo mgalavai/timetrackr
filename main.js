@@ -2,9 +2,9 @@ let selectedHoursCell;
 let userRowNumber;
 
 const loginForm = document.getElementById("login-form");
-const spreadsheetId = "1XyocfuxS_vrBeWtWh6C8mVv2ma7Z1nrHVu5B4QH0YDw";
+const spreadsheetId = "YOUR-ID";
 const sheetName = "Hours worked";
-const apiKey = "AIzaSyBBJK4ZzNavg_e-U3hCB91QdunPYn4RY8g";
+const apiKey = "API-key";
 
 function addLogoutButtonListener() {
   const logoutButton = document.getElementById("logout-button");
